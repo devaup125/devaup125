@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Devanshu Ranjan</h1>
 
 <p align="center">
-  <strong>🚀 3rd Year CSE Student | MERN Stack Developer | Pythonista | Linux Geek | CP Enthusiast</strong><br>
+  <strong> 3rd Year CSE Student | Data Analyst | Pythonista | Linux Geek | CP Enthusiast</strong><br>
   <em>Building robust software, solving real-world problems, and exploring the depths of tech</em>
 </p>
 
@@ -17,7 +17,7 @@
 
 - 🎓 Pre-Final Year Computer Science Engineering Student  
 - 👨‍💻 Love building full-stack web apps & solving DSA challenges  
-- 🛠️ Currently diving deep into **Docker**, **DevOps**, and **Networking**  
+- 🛠️ Currently diving deep into **Docker**, and **Networking**  
 - 📚 Tech blogger & Open Source Contributor  
 - 🧠 Always up for a good technical discussion!
 
@@ -32,9 +32,7 @@
   <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="30"/><br/>HTML5</td>
   <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="30"/><br/>CSS3</td>
   <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30"/><br/>JavaScript</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30"/><br/>TypeScript</td>
   <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30"/><br/>React</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30"/><br/>Next.js</td>
 </tr>
 <tr>
   <td align="center"><img src="https://cdn.simpleicons.org/node.js/339933" width="30"/><br/>Node.js</td>
@@ -49,13 +47,9 @@
   <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="30"/><br/>Docker</td>
   <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="30"/><br/>Linux</td>
   <td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="30"/><br/>MySQL</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/postgresql/336791" width="30"/><br/>PostgreSQL</td>
   <td align="center"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="30"/><br/>Firebase</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="30"/><br/>AWS</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/azure/0078D4" width="30"/><br/>Azure</td>
-  <td align="center"><img src="https://cdn.simpleicons.org/nginx/009639" width="30"/><br/>Nginx</td>
   <td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30"/><br/>VS Code</td>
   <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="30"/><br/>Vercel</td>
   <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="30"/><br/>Netlify</td>
@@ -74,7 +68,7 @@
 - ☕ Java, DSA, OOPs, System Design  
 - 🐧 Linux Scripting, CLI Tools, Admin  
 - 🌐 TCP/IP, Packet Analysis, DNS, NAT  
-- ⚙️ CI/CD, Docker, DevOps Tools
+- ⚙️ Docker
 
 ---
 
