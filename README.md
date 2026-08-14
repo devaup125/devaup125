@@ -91,7 +91,7 @@ Comprehensive exploratory data analysis and visualization project extracting act
 ## Achievements
 
 - 🥇 Overall College Rank #1
-- ⭐ 9.13 CGPA
+- ⭐ 8.70 CGPA
 - 💻 229+ LeetCode Problems Solved
 - 🔥 LeetCode Rating: 1365
 - ⭐ HackerRank 5★
