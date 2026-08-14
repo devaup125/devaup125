@@ -18,11 +18,11 @@ Building AI-powered applications, scalable backend systems, and intelligent solu
 
 ## About Me
 
-- 🎓 Pre-Final Year B.Tech Computer Science & Engineering Student
+- 🎓 Final Year B.Tech Computer Science & Engineering Student
 - 🏫 United Institute of Technology, Prayagraj
 - 💼 AI Backend Engineer Intern at **Hunar.AI**
 - 🥇 Overall College Rank **#1** (Second Year)
-- ⭐ CGPA **9.13/10**
+- ⭐ CGPA **8.70/10**
 - 💡 Passionate about Machine Learning, Artificial Intelligence, Backend Engineering and Data Science.
 - 🌱 Currently working on **AI Voice Security System**, **DialyzeSmart**, and **Google Solution Challenge 2026**.
 
